@@ -1,3 +1,21 @@
+### devop
+
+* * changed bsc to bnb in swap [#3963](https://github.com/MyEtherWallet/MyEtherWallet/pull/3963)
+* * add all text to translation files [#3968](https://github.com/MyEtherWallet/MyEtherWallet/pull/3968)
+
+### fix
+
+* * fix 'add data' field clear [#3900](https://github.com/MyEtherWallet/MyEtherWallet/pull/3900)
+* * fix tools items title [#3911](https://github.com/MyEtherWallet/MyEtherWallet/pull/3911)
+* * fix keystore password 8 char minimum [#3956](https://github.com/MyEtherWallet/MyEtherWallet/pull/3956)
+* * fix offline transaction to address and signature [#3960](https://github.com/MyEtherWallet/MyEtherWallet/pull/3960)
+* * catch gas required exceeds allowance, it's not your token errors [#3961](https://github.com/MyEtherWallet/MyEtherWallet/pull/3961)
+* * fix invalid address error [#3962](https://github.com/MyEtherWallet/MyEtherWallet/pull/3962)
+* * Cannot read properties of undefined (reading 'isActive') [#3966](https://github.com/MyEtherWallet/MyEtherWallet/pull/3966)
+* * network error on home page features section [#3969](https://github.com/MyEtherWallet/MyEtherWallet/pull/3969)
+* * fix metamask logout issue [#3973](https://github.com/MyEtherWallet/MyEtherWallet/pull/3973)
+* * footer donation translations [#3974](https://github.com/MyEtherWallet/MyEtherWallet/pull/3974)
+
 ### Release v6.6.1
 
 ### ui
